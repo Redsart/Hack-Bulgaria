@@ -1,0 +1,6 @@
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\SubSequence\bin\Debug\SubSequence.exe.config
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\SubSequence\bin\Debug\SubSequence.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\SubSequence\bin\Debug\SubSequence.pdb
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\SubSequence\obj\Debug\SubSequence.csprojResolveAssemblyReference.cache
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\SubSequence\obj\Debug\SubSequence.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\SubSequence\obj\Debug\SubSequence.pdb

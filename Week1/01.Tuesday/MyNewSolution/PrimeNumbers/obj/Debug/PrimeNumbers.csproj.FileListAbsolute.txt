@@ -1,0 +1,6 @@
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

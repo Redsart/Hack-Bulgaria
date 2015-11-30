@@ -1,0 +1,6 @@
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\IsStringAnagramOfAnotherString\bin\Debug\IsStringAnagramOfAnotherString.exe.config
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\IsStringAnagramOfAnotherString\bin\Debug\IsStringAnagramOfAnotherString.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\IsStringAnagramOfAnotherString\bin\Debug\IsStringAnagramOfAnotherString.pdb
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\IsStringAnagramOfAnotherString\obj\Debug\IsStringAnagramOfAnotherString.csprojResolveAssemblyReference.cache
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\IsStringAnagramOfAnotherString\obj\Debug\IsStringAnagramOfAnotherString.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\IsStringAnagramOfAnotherString\obj\Debug\IsStringAnagramOfAnotherString.pdb

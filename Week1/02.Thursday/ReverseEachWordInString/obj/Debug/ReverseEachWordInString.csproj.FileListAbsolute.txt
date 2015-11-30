@@ -1,0 +1,6 @@
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\ReverseEachWordInString\bin\Debug\ReverseEachWordInString.exe.config
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\ReverseEachWordInString\bin\Debug\ReverseEachWordInString.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\ReverseEachWordInString\bin\Debug\ReverseEachWordInString.pdb
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\ReverseEachWordInString\obj\Debug\ReverseEachWordInString.csprojResolveAssemblyReference.cache
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\ReverseEachWordInString\obj\Debug\ReverseEachWordInString.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\ReverseEachWordInString\obj\Debug\ReverseEachWordInString.pdb

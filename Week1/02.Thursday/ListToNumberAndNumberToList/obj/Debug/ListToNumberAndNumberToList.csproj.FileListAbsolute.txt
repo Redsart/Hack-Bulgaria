@@ -1,0 +1,6 @@
+c:\users\venci\documents\visual studio 2013\Projects\LanguageConstructs\ListToNumberAndNumberToList\bin\Debug\ListToNumberAndNumberToList.exe.config
+c:\users\venci\documents\visual studio 2013\Projects\LanguageConstructs\ListToNumberAndNumberToList\bin\Debug\ListToNumberAndNumberToList.exe
+c:\users\venci\documents\visual studio 2013\Projects\LanguageConstructs\ListToNumberAndNumberToList\bin\Debug\ListToNumberAndNumberToList.pdb
+c:\users\venci\documents\visual studio 2013\Projects\LanguageConstructs\ListToNumberAndNumberToList\obj\Debug\ListToNumberAndNumberToList.csprojResolveAssemblyReference.cache
+c:\users\venci\documents\visual studio 2013\Projects\LanguageConstructs\ListToNumberAndNumberToList\obj\Debug\ListToNumberAndNumberToList.exe
+c:\users\venci\documents\visual studio 2013\Projects\LanguageConstructs\ListToNumberAndNumberToList\obj\Debug\ListToNumberAndNumberToList.pdb

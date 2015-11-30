@@ -1,0 +1,6 @@
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\VowelsInString\bin\Debug\VowelsInString.exe.config
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\VowelsInString\bin\Debug\VowelsInString.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\VowelsInString\bin\Debug\VowelsInString.pdb
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\VowelsInString\obj\Debug\VowelsInString.csprojResolveAssemblyReference.cache
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\VowelsInString\obj\Debug\VowelsInString.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\VowelsInString\obj\Debug\VowelsInString.pdb

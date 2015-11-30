@@ -1,0 +1,6 @@
+c:\users\venci\documents\visual studio 2013\Projects\MyNewSolution\MyNewSolution\bin\Debug\MyNewSolution.exe.config
+c:\users\venci\documents\visual studio 2013\Projects\MyNewSolution\MyNewSolution\bin\Debug\MyNewSolution.exe
+c:\users\venci\documents\visual studio 2013\Projects\MyNewSolution\MyNewSolution\bin\Debug\MyNewSolution.pdb
+c:\users\venci\documents\visual studio 2013\Projects\MyNewSolution\MyNewSolution\obj\Debug\MyNewSolution.csprojResolveAssemblyReference.cache
+c:\users\venci\documents\visual studio 2013\Projects\MyNewSolution\MyNewSolution\obj\Debug\MyNewSolution.exe
+c:\users\venci\documents\visual studio 2013\Projects\MyNewSolution\MyNewSolution\obj\Debug\MyNewSolution.pdb

@@ -1,0 +1,3 @@
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\ConsonantsInString\bin\Debug\ConsonantsInString.exe.config
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\ConsonantsInString\obj\Debug\ConsonantsInString.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\ConsonantsInString\obj\Debug\ConsonantsInString.pdb

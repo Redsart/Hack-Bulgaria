@@ -1,0 +1,6 @@
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\GrayscaleImage\bin\Debug\GrayscaleImage.exe.config
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\GrayscaleImage\obj\Debug\GrayscaleImage.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\GrayscaleImage\obj\Debug\GrayscaleImage.pdb
+C:\Users\Venci\Desktop\HackBulgaria\Week1\03.Saturday\GrayscaleImage\bin\Debug\GrayscaleImage.exe.config
+C:\Users\Venci\Desktop\HackBulgaria\Week1\03.Saturday\GrayscaleImage\obj\Debug\GrayscaleImage.exe
+C:\Users\Venci\Desktop\HackBulgaria\Week1\03.Saturday\GrayscaleImage\obj\Debug\GrayscaleImage.pdb

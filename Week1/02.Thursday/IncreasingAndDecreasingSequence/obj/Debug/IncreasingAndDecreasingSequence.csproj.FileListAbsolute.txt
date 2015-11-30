@@ -1,0 +1,12 @@
+c:\users\venci\documents\visual studio 2013\Projects\LanguageConstructs\IncreasingAndDecreasingSequence\bin\Debug\IncreasingAndDecreasingSequence.exe.config
+c:\users\venci\documents\visual studio 2013\Projects\LanguageConstructs\IncreasingAndDecreasingSequence\bin\Debug\IncreasingAndDecreasingSequence.exe
+c:\users\venci\documents\visual studio 2013\Projects\LanguageConstructs\IncreasingAndDecreasingSequence\bin\Debug\IncreasingAndDecreasingSequence.pdb
+c:\users\venci\documents\visual studio 2013\Projects\LanguageConstructs\IncreasingAndDecreasingSequence\obj\Debug\IncreasingAndDecreasingSequence.csprojResolveAssemblyReference.cache
+c:\users\venci\documents\visual studio 2013\Projects\LanguageConstructs\IncreasingAndDecreasingSequence\obj\Debug\IncreasingAndDecreasingSequence.exe
+c:\users\venci\documents\visual studio 2013\Projects\LanguageConstructs\IncreasingAndDecreasingSequence\obj\Debug\IncreasingAndDecreasingSequence.pdb
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\IncreasingAndDecreasingSequence\bin\Debug\IncreasingAndDecreasingSequence.exe.config
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\IncreasingAndDecreasingSequence\obj\Debug\IncreasingAndDecreasingSequence.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\IncreasingAndDecreasingSequence\obj\Debug\IncreasingAndDecreasingSequence.pdb
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\IncreasingAndDecreasingSequence\bin\Debug\IncreasingAndDecreasingSequence.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\IncreasingAndDecreasingSequence\bin\Debug\IncreasingAndDecreasingSequence.pdb
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\IncreasingAndDecreasingSequence\obj\Debug\IncreasingAndDecreasingSequence.csprojResolveAssemblyReference.cache

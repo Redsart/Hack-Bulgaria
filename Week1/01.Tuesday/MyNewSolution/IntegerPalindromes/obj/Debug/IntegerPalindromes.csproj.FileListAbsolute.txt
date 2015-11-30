@@ -1,0 +1,5 @@
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\IntegerPalindromes\bin\Debug\IntegerPalindromes.exe.config
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\IntegerPalindromes\bin\Debug\IntegerPalindromes.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\IntegerPalindromes\bin\Debug\IntegerPalindromes.pdb
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\IntegerPalindromes\obj\Debug\IntegerPalindromes.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\IntegerPalindromes\obj\Debug\IntegerPalindromes.pdb

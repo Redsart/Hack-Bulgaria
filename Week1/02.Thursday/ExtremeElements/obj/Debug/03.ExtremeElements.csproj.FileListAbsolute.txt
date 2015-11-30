@@ -1,0 +1,3 @@
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\ExtremeElements\bin\Debug\ExtremeElements.exe.config
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\ExtremeElements\obj\Debug\ExtremeElements.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\ExtremeElements\obj\Debug\ExtremeElements.pdb

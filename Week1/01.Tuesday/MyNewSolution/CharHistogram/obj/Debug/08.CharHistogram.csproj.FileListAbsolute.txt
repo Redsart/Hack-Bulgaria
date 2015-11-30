@@ -1,0 +1,6 @@
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\CharHistogram\bin\Debug\CharHistogram.exe.config
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\CharHistogram\obj\Debug\08.CharHistogram.csprojResolveAssemblyReference.cache
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\CharHistogram\bin\Debug\CharHistogram.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\CharHistogram\bin\Debug\CharHistogram.pdb
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\CharHistogram\obj\Debug\CharHistogram.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\CharHistogram\obj\Debug\CharHistogram.pdb

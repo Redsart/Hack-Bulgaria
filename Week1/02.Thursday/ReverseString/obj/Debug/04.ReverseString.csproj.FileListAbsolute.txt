@@ -1,0 +1,3 @@
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\ReverseString\obj\Debug\ReverseString.pdb

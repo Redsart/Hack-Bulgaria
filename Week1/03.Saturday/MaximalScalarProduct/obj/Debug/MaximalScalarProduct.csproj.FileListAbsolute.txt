@@ -1,0 +1,6 @@
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\MaximalScalarProduct\bin\Debug\MaximalScalarProduct.exe.config
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\MaximalScalarProduct\bin\Debug\MaximalScalarProduct.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\MaximalScalarProduct\bin\Debug\MaximalScalarProduct.pdb
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\MaximalScalarProduct\obj\Debug\MaximalScalarProduct.csprojResolveAssemblyReference.cache
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\MaximalScalarProduct\obj\Debug\MaximalScalarProduct.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\MaximalScalarProduct\obj\Debug\MaximalScalarProduct.pdb

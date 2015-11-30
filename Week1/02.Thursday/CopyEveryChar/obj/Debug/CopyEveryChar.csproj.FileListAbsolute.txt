@@ -1,0 +1,6 @@
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\CopyEveryChar\bin\Debug\CopyEveryChar.exe.config
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\CopyEveryChar\obj\Debug\CopyEveryChar.csprojResolveAssemblyReference.cache
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\CopyEveryChar\bin\Debug\CopyEveryChar.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\CopyEveryChar\bin\Debug\CopyEveryChar.pdb
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\CopyEveryChar\obj\Debug\CopyEveryChar.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\03.LanguageConstructs\CopyEveryChar\obj\Debug\CopyEveryChar.pdb

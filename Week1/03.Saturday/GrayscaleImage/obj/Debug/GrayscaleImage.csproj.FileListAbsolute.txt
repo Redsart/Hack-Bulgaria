@@ -1,0 +1,14 @@
+c:\users\venci\documents\visual studio 2013\Projects\MoreProblems\GrayscaleImage\bin\Debug\GrayscaleImage.exe.config
+c:\users\venci\documents\visual studio 2013\Projects\MoreProblems\GrayscaleImage\bin\Debug\arthas.bmp
+c:\users\venci\documents\visual studio 2013\Projects\MoreProblems\GrayscaleImage\bin\Debug\GrayscaleImage.exe
+c:\users\venci\documents\visual studio 2013\Projects\MoreProblems\GrayscaleImage\bin\Debug\GrayscaleImage.pdb
+c:\users\venci\documents\visual studio 2013\Projects\MoreProblems\GrayscaleImage\obj\Debug\GrayscaleImage.csprojResolveAssemblyReference.cache
+c:\users\venci\documents\visual studio 2013\Projects\MoreProblems\GrayscaleImage\obj\Debug\GrayscaleImage.exe
+c:\users\venci\documents\visual studio 2013\Projects\MoreProblems\GrayscaleImage\obj\Debug\GrayscaleImage.pdb
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\GrayscaleImage\bin\Debug\GrayscaleImage.exe.config
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\GrayscaleImage\obj\Debug\GrayscaleImage.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\GrayscaleImage\obj\Debug\GrayscaleImage.pdb
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\GrayscaleImage\bin\Debug\arthas.bmp
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\GrayscaleImage\bin\Debug\GrayscaleImage.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\GrayscaleImage\bin\Debug\GrayscaleImage.pdb
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\GrayscaleImage\obj\Debug\GrayscaleImage.csprojResolveAssemblyReference.cache

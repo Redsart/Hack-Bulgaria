@@ -1,0 +1,9 @@
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\FibonacciNumber\bin\Debug\FibonacciNumber.exe.config
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\FibonacciNumber\bin\Debug\FibonacciNumber.exe
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\FibonacciNumber\bin\Debug\FibonacciNumber.pdb
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\FibonacciNumber\obj\Debug\05.FibonacciNumber.csprojResolveAssemblyReference.cache
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\FibonacciNumber\obj\Debug\FibonacciNumber.exe
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\FibonacciNumber\obj\Debug\FibonacciNumber.pdb
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\FibonacciNumber\bin\Debug\FibonacciNumber.exe.config
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\FibonacciNumber\obj\Debug\FibonacciNumber.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\FibonacciNumber\obj\Debug\FibonacciNumber.pdb

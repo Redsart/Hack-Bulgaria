@@ -1,0 +1,3 @@
+C:\Users\Venci\Desktop\HackBulgaria\Week1\Thursday\SubSequence\bin\Debug\SubSequence.exe.config
+C:\Users\Venci\Desktop\HackBulgaria\Week1\Thursday\SubSequence\obj\Debug\SubSequence.exe
+C:\Users\Venci\Desktop\HackBulgaria\Week1\Thursday\SubSequence\obj\Debug\SubSequence.pdb

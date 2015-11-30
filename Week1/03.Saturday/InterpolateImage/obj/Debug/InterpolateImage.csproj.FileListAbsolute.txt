@@ -1,0 +1,7 @@
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\InterpolateImage\bin\Debug\InterpolateImage.exe.config
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\InterpolateImage\bin\Debug\arthas.bmp
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\InterpolateImage\bin\Debug\InterpolateImage.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\InterpolateImage\bin\Debug\InterpolateImage.pdb
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\InterpolateImage\obj\Debug\InterpolateImage.csprojResolveAssemblyReference.cache
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\InterpolateImage\obj\Debug\InterpolateImage.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\InterpolateImage\obj\Debug\InterpolateImage.pdb

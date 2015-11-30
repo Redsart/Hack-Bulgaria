@@ -1,0 +1,6 @@
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\LucasSeries\bin\Debug\LucasSeries.exe.config
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\LucasSeries\bin\Debug\LucasSeries.exe
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\LucasSeries\bin\Debug\LucasSeries.pdb
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\LucasSeries\obj\Debug\LucasSeries.csprojResolveAssemblyReference.cache
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\LucasSeries\obj\Debug\LucasSeries.exe
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\LucasSeries\obj\Debug\LucasSeries.pdb

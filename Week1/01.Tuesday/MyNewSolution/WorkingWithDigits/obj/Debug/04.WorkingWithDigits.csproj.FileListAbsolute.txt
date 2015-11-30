@@ -1,0 +1,9 @@
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\WorkingWithDigits\bin\Debug\WorkingWithDigits.exe.config
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\WorkingWithDigits\bin\Debug\WorkingWithDigits.exe
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\WorkingWithDigits\bin\Debug\WorkingWithDigits.pdb
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\WorkingWithDigits\obj\Debug\WorkingWithDigits.exe
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\WorkingWithDigits\obj\Debug\WorkingWithDigits.pdb
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\WorkingWithDigits\obj\Debug\04.WorkingWithDigits.csprojResolveAssemblyReference.cache
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\WorkingWithDigits\bin\Debug\WorkingWithDigits.exe.config
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\WorkingWithDigits\obj\Debug\WorkingWithDigits.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\WorkingWithDigits\obj\Debug\WorkingWithDigits.pdb

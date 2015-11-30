@@ -1,0 +1,9 @@
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\MaxSpan\bin\Debug\MaxSpan.exe.config
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\MaxSpan\obj\Debug\MaxSpan.csprojResolveAssemblyReference.cache
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\MaxSpan\bin\Debug\MaxSpan.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\MaxSpan\bin\Debug\MaxSpan.pdb
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\MaxSpan\obj\Debug\MaxSpan.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\MoreProblems\MaxSpan\obj\Debug\MaxSpan.pdb
+C:\Users\Venci\Desktop\HackBulgaria\Week1\03.Saturday\MaxSpan\bin\Debug\MaxSpan.exe.config
+C:\Users\Venci\Desktop\HackBulgaria\Week1\03.Saturday\MaxSpan\obj\Debug\MaxSpan.exe
+C:\Users\Venci\Desktop\HackBulgaria\Week1\03.Saturday\MaxSpan\obj\Debug\MaxSpan.pdb

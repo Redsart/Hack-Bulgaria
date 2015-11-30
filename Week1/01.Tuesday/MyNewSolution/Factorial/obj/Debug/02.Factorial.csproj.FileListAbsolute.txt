@@ -1,0 +1,9 @@
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\Factorial\bin\Debug\Factorial.exe
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\Factorial\obj\Debug\02.Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\Factorial\obj\Debug\Factorial.exe
+C:\Users\Venci\documents\visual studio 2013\Projects\MyNewSolution\Factorial\obj\Debug\Factorial.pdb
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\Factorial\obj\Debug\Factorial.exe
+C:\Users\Venci\Desktop\HackBulgaria.git\HackBulgariaProblems\Warmups\MyNewSolution\Factorial\obj\Debug\Factorial.pdb
