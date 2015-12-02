@@ -12,7 +12,7 @@ namespace MaxSpan
         {
             List<int> numbers = new List<int> { 1, 4, 2, 1, 4, 1, 4 };
 
-            Console.WriteLine(MaxSpann(numbers));
+            Console.WriteLine("MaxSpan = {0}",MaxSpann(numbers));
         }
 
         private static int MaxSpann(List<int> numbers)
@@ -22,9 +22,13 @@ namespace MaxSpan
             {
                 counter++;
             }
-            for (int i = numbers.ToArray().Length; i > numbers.ToArray().Length / 2; i--)
+            if (numbers.ToArray().Length==1)
             {
-                counter++;
+                counter = 1;
+            }
+            else
+            {
+                counter *= 2;
             }
             return counter;
         }

@@ -11,7 +11,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.LinearFilter", "LinearFi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MaximalScalarProduct", "MaximalScalarProduct\04.MaximalScalarProduct.csproj", "{90671AB5-73A7-4ECE-83B2-A7A7E908BDAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSpan", "MaxSpan\MaxSpan.csproj", "{C25AC471-F88A-4761-B623-9C4247F8FA01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.MaxSpan", "MaxSpan\05.MaxSpan.csproj", "{C25AC471-F88A-4761-B623-9C4247F8FA01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.BirthdayRanges", "BirthdayRanges\06.BirthdayRanges.csproj", "{08D06FC9-B456-43AD-9602-ED40429EC26D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.MatrixBombing", "MatrixBombing\07.MatrixBombing.csproj", "{6ED9F013-CFB2-4CDB-B19F-FD6894FAB9E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Tranversal", "Tranversal\08.Tranversal.csproj", "{FB47598B-3D35-4C35-BC58-88C9E860F7C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{C25AC471-F88A-4761-B623-9C4247F8FA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C25AC471-F88A-4761-B623-9C4247F8FA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C25AC471-F88A-4761-B623-9C4247F8FA01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08D06FC9-B456-43AD-9602-ED40429EC26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D06FC9-B456-43AD-9602-ED40429EC26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D06FC9-B456-43AD-9602-ED40429EC26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D06FC9-B456-43AD-9602-ED40429EC26D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED9F013-CFB2-4CDB-B19F-FD6894FAB9E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED9F013-CFB2-4CDB-B19F-FD6894FAB9E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED9F013-CFB2-4CDB-B19F-FD6894FAB9E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED9F013-CFB2-4CDB-B19F-FD6894FAB9E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB47598B-3D35-4C35-BC58-88C9E860F7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB47598B-3D35-4C35-BC58-88C9E860F7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB47598B-3D35-4C35-BC58-88C9E860F7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB47598B-3D35-4C35-BC58-88C9E860F7C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
