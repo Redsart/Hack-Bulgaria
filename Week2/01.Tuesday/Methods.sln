@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ReverseString", "ReverseString\01.ReverseString.csproj", "{70F51C4F-C788-4574-BF1E-14F046BF695A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.InflateRectangle", "InflateRectangle\02.InflateRectangle.csproj", "{90D7964C-8661-4D91-ACE2-B747CE0C1E54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SearchInList", "SearchInList\03.SearchInList.csproj", "{6788B4AD-3381-44FB-B0CD-A6967A9B6A4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.JoiningStrings", "JoiningStrings\04.JoiningStrings.csproj", "{DBA6BDC9-1055-4611-AAD7-F677D842E4A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.FactorialGenerator", "FactorialGenerator\05.FactorialGenerator.csproj", "{2C52B5CC-C0A2-4E35-86E2-5C4A07855F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryTraversal", "DirectoryTraversal\DirectoryTraversal.csproj", "{22900B14-EF7E-44CE-8180-E6E0821246F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70F51C4F-C788-4574-BF1E-14F046BF695A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F51C4F-C788-4574-BF1E-14F046BF695A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F51C4F-C788-4574-BF1E-14F046BF695A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F51C4F-C788-4574-BF1E-14F046BF695A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D7964C-8661-4D91-ACE2-B747CE0C1E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D7964C-8661-4D91-ACE2-B747CE0C1E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D7964C-8661-4D91-ACE2-B747CE0C1E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D7964C-8661-4D91-ACE2-B747CE0C1E54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6788B4AD-3381-44FB-B0CD-A6967A9B6A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6788B4AD-3381-44FB-B0CD-A6967A9B6A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6788B4AD-3381-44FB-B0CD-A6967A9B6A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6788B4AD-3381-44FB-B0CD-A6967A9B6A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBA6BDC9-1055-4611-AAD7-F677D842E4A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA6BDC9-1055-4611-AAD7-F677D842E4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA6BDC9-1055-4611-AAD7-F677D842E4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA6BDC9-1055-4611-AAD7-F677D842E4A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C52B5CC-C0A2-4E35-86E2-5C4A07855F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C52B5CC-C0A2-4E35-86E2-5C4A07855F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C52B5CC-C0A2-4E35-86E2-5C4A07855F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C52B5CC-C0A2-4E35-86E2-5C4A07855F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22900B14-EF7E-44CE-8180-E6E0821246F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22900B14-EF7E-44CE-8180-E6E0821246F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22900B14-EF7E-44CE-8180-E6E0821246F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22900B14-EF7E-44CE-8180-E6E0821246F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
