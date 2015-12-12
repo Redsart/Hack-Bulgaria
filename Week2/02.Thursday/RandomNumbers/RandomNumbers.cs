@@ -25,15 +25,13 @@ namespace RandomNumbers
         {
             StringBuilder sb = new StringBuilder();
             Random rnd = new Random();
-            double number = rnd.NextDouble() * 1000;
             List<string> matrix = new List<string>();
 
             for (int i = 0; i < rows; i++)
             {
                 for (int j = 0; j < columns; j++)
                 {
-                        sb.Append(string.Format("{0,3:F2} ", number));
-                        Thread.Sleep(150);
+                        sb.Append(string.Format("{0,3:F2} ", rnd.NextDouble() * 1000));
                 }
                 
                 matrix.Add(sb.ToString());
