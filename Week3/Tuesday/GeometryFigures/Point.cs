@@ -8,10 +8,10 @@ namespace GeometryFigures
 {
     public class Point
     {
-        public readonly int x;
-        public readonly int y;
+        public readonly double x;
+        public readonly double y;
 
-        public Point(int x, int y)
+        public Point(double x, double y)
         {
             this.x = x;
             this.y = y;
@@ -67,6 +67,11 @@ namespace GeometryFigures
                 hash = hash * 23 + y.GetHashCode();
                 return hash;
             }
+        }
+
+        public static LineSegment operator +(Point a, Point b)
+        {
+            return new LineSegment(a, b);
         }
     }
 }

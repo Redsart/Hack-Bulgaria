@@ -9,8 +9,9 @@ namespace GeometryFigures
     public class LineSegment
     {
         //public Point coord;
-        public readonly int pointA;
-        public readonly int pointB;
+        public readonly Point pointA;
+        public readonly Point pointB;
+        private double distance;
 
         public LineSegment(Point pointA, Point pointB)
         {
@@ -18,8 +19,8 @@ namespace GeometryFigures
             {
                 throw new ArgumentException("Cannot create a line segment with zero lenght");
             }
-            this.pointA = pointA.x;
-            this.pointB = pointB.y;
+            this.pointA = pointA;
+            this.pointB = pointB;
         }
 
         // copy constructor
@@ -29,14 +30,11 @@ namespace GeometryFigures
             pointB = origin.pointB;
         }
 
-        public static bool operator ==(LineSegment a,LineSegment b)
+        public double GetLength()
         {
-
-        }
-
-        public static bool operator !=(LineSegment a, LineSegment b)
-        {
-
+            double length = Math.Pow(Math.Max(pointA.x, pointA.y) - Math.Min(pointA.x, pointA.y), 2) -
+                Math.Pow(Math.Max(pointB.x, pointB.y) - Math.Min(pointB.x, pointB.y), 2);
+            return Math.Sqrt(length);
         }
 
         public override int GetHashCode()
@@ -48,6 +46,98 @@ namespace GeometryFigures
                 hash = hash * 23 + pointB.GetHashCode();
                 return hash;
             }
+        }
+
+        public static bool operator ==(LineSegment a,LineSegment b)
+        {
+            bool equals = false;
+            if (a.GetLength()==b.GetLength())
+            {
+                equals = true;
+            }
+            return equals;
+        }
+
+        public static bool operator !=(LineSegment a, LineSegment b)
+        {
+            return !(a==b);
+        }
+
+        public static bool operator <(LineSegment a, LineSegment b)
+        {
+            if (a.GetLength() < b.GetLength())
+            {
+                return true;
+            }
+            return false;
+        }
+
+        public static bool operator >(LineSegment a, LineSegment b)
+        {
+            if (a > b)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        public static bool operator >=(LineSegment a, LineSegment b)
+        {
+            if (a >= b)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        public static bool operator <=(LineSegment a, LineSegment b)
+        {
+            if (a <= b)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        public static bool operator <(LineSegment a, double b)
+        {
+            if (a.GetLength() < b)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        public static bool operator > (LineSegment a, double b)
+        {
+            if (a.GetLength() > b)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        public static bool operator <=(LineSegment a, double b)
+        {
+            if (a.GetLength() <= b)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        public static bool operator >=(LineSegment a, double b)
+        {
+            if (a.GetLength() >= b)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        public override string ToString()
+        {
+            return String.Format("Line[({0},{1}),({2},{3})]",pointA.x,pointA.y,pointB.x,pointB.y);
         }
     }
 }

@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PairHW", "PairHW\02.Pair
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Fractions", "Fractions\03.Fractions.csproj", "{F2CE1600-8EFB-4719-8241-E51D63BF9272}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryFigures", "GeometryFigures\GeometryFigures.csproj", "{CEA9FED5-4DCB-407C-A75D-77908E9C9E4C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.GeometryFigures", "GeometryFigures\04.GeometryFigures.csproj", "{CEA9FED5-4DCB-407C-A75D-77908E9C9E4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
