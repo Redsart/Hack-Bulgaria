@@ -17,6 +17,14 @@ namespace CashDeskApplication
             var c = new Bill(10);
 
             Console.WriteLine(a);
+
+            var bills = new Bill[] { new Bill(10), new Bill(20), new Bill(50), new Bill(100) };
+            var batch = new BatchBill(bills.ToList());
+
+            foreach(var bill in batch)
+            {
+              Console.WriteLine(bill);
+            }
         }
     }
 }
