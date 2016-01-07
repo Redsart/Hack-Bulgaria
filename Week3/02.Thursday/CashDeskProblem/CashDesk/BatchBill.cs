@@ -11,17 +11,10 @@ namespace CashDesk
     {
         private List<Bill> bills=new List<Bill>();
         private int? total = null;
-        private Bill[] bills1;
 
         public BatchBill(List<Bill> Bills)
         {
             bills = Bills;
-        }
-
-        public BatchBill(Bill[] bills1)
-        {
-            // TODO: Complete member initialization
-            this.bills1 = bills1;
         }
 
         public List<Bill> Bills
@@ -51,6 +44,12 @@ namespace CashDesk
         public override string ToString()
         {
             return String.Format("You have {0} Bills and his amount is {1}",bills.Capacity,this.total);
+        }
+
+        public Bill this[int i]
+        {
+            get { return bills[i]; }
+            set { bills[i] = value; }
         }
 
         IEnumerator IEnumerable.GetEnumerator()

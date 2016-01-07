@@ -41,9 +41,8 @@
   <ItemGroup>
     <Compile Include="BatchBill.cs" />
     <Compile Include="Bill.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TotalCount.cs" />
+    <Compile Include="CashDesks.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

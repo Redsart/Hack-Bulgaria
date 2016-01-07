@@ -11,19 +11,59 @@ namespace CashDeskApplication
     {
         static void Main(string[] args)
         {
-            
-            var a = new Bill(10);
-            var b = new Bill(5);
-            var c = new Bill(10);
+            CashDesks obj = new CashDesks();
+            Console.WriteLine("Comand list \ntakebill \ntakebatch \ntotal \ninspect \nexit \n");
 
-            Console.WriteLine(a);
-
-            var bills = new Bill[] { new Bill(10), new Bill(20), new Bill(50), new Bill(100) };
-            var batch = new BatchBill(bills.ToList());
-
-            foreach(var bill in batch)
+            while (true)
             {
-              Console.WriteLine(bill);
+                string comands = Console.ReadLine();
+                string[] comand = comands.Split(' ');
+
+                switch (comand[0])
+                {
+                    case "takebill":
+                        if (comand.Length > 2)
+                        {
+                            throw new ArgumentException("takebill takes only 1 argument");
+                        }
+                        else
+                        {
+                            obj.TakeMoney(new Bill(int.Parse(comand[1])));
+                        }
+                        break;
+
+                    case "takebatch":
+                        if (comand.Length > 2)
+                        {
+                            List<Bill> bills = new List<Bill>();
+                            for (int i = 1; i < bills.Capacity; i++)
+                            {
+                                bills.Add(new Bill(int.Parse(comand[i])));
+                            }
+                            obj.TakeMoney(new BatchBill(bills));
+                            break;
+                        }
+                        else
+                        {
+                            throw new ArgumentException("takebatch must have more than 1 argument");
+                        }
+
+                    case "total":
+                        obj.Total();
+                        break;
+                        
+                    case "inspect":
+                        obj.Inspect();
+                        break;
+
+                    case "exit":
+                        Environment.Exit(0);
+                        break;
+
+                    default:
+                        Console.WriteLine("Wrong option!");
+                        break;
+                }
             }
         }
     }
