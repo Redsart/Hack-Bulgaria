@@ -36,7 +36,7 @@ namespace CashDeskApplication
                         if (comand.Length > 2)
                         {
                             List<Bill> bills = new List<Bill>();
-                            for (int i = 1; i < bills.Capacity; i++)
+                            for (int i = 1; i < comand.Length; i++)
                             {
                                 bills.Add(new Bill(int.Parse(comand[i])));
                             }
