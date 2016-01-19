@@ -11,7 +11,7 @@ namespace PairHW
         static void Main(string[] args)
         {
             Pair obj1 = new Pair(5, 6);
-            Pair obj2 = new Pair(6, 7);
+            Pair obj2 = new Pair(5, 6);
             
             Console.WriteLine(obj1.Equals(obj2));
         }
