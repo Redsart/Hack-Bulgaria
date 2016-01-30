@@ -158,25 +158,5 @@ namespace LotoGame
             }
             return isWining;
         }
-
-        internal static bool GetMatchetNumbers(Combination<T, U> winCombination, Combination<T, U> userCombination, out byte numbers)
-        {
-            throw new NotImplementedException();
-        }
-
-        internal static bool GetMatchetNumbers(Combination<T, U> winCombination, Combination<T, U> userCombination, out byte numbers)
-        {
-            throw new NotImplementedException();
-        }
-
-        internal static bool GetMatchetNumbers(Combination<T, U> winCombination, Combination<T, U> userCombination, out byte numbers)
-        {
-            throw new NotImplementedException();
-        }
-
-        internal static bool GetMatchetNumbers(Combination<T, U> winCombination, Combination<T, U> userCombination, out byte numbers)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
