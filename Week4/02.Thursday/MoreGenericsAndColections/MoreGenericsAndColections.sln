@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListApp", "LinkedList
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{9013A33C-0DB8-44C7-924E-DC7C53929A2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicArray", "DynamicArray\DynamicArray.csproj", "{B525AA66-AFE8-4856-8A75-9445419AF464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicArrayApp", "DynamicArrayApp\DynamicArrayApp.csproj", "{82ACED39-2DAD-4BF7-9E8D-3C12F91E6096}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{9013A33C-0DB8-44C7-924E-DC7C53929A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9013A33C-0DB8-44C7-924E-DC7C53929A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9013A33C-0DB8-44C7-924E-DC7C53929A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B525AA66-AFE8-4856-8A75-9445419AF464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B525AA66-AFE8-4856-8A75-9445419AF464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B525AA66-AFE8-4856-8A75-9445419AF464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B525AA66-AFE8-4856-8A75-9445419AF464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82ACED39-2DAD-4BF7-9E8D-3C12F91E6096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82ACED39-2DAD-4BF7-9E8D-3C12F91E6096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82ACED39-2DAD-4BF7-9E8D-3C12F91E6096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82ACED39-2DAD-4BF7-9E8D-3C12F91E6096}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
