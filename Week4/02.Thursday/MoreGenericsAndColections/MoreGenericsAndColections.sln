@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicArray", "DynamicArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicArrayApp", "DynamicArrayApp\DynamicArrayApp.csproj", "{82ACED39-2DAD-4BF7-9E8D-3C12F91E6096}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map", "Map\Map.csproj", "{EF58157C-2E48-4551-95CB-F4D048C344EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapApp", "MapApp\MapApp.csproj", "{751CA430-357E-402A-98FA-ABE948E31DAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{82ACED39-2DAD-4BF7-9E8D-3C12F91E6096}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82ACED39-2DAD-4BF7-9E8D-3C12F91E6096}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82ACED39-2DAD-4BF7-9E8D-3C12F91E6096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF58157C-2E48-4551-95CB-F4D048C344EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF58157C-2E48-4551-95CB-F4D048C344EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF58157C-2E48-4551-95CB-F4D048C344EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF58157C-2E48-4551-95CB-F4D048C344EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{751CA430-357E-402A-98FA-ABE948E31DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751CA430-357E-402A-98FA-ABE948E31DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751CA430-357E-402A-98FA-ABE948E31DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751CA430-357E-402A-98FA-ABE948E31DAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
