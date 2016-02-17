@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace Animals
 {
-    class Program
+    public abstract class Mammal : Animal
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
