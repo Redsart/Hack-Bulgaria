@@ -17,7 +17,7 @@ namespace Animals
 
         public override string Move()
         {
-            return String.Format("I can swim and i can move on the land.My temperature is: {0}",this.Temperature());
+            return String.Format("I am crocodile.I can swim and i can move on the land.My temperature is: {0}",this.Temperature());
         }
     }
 }

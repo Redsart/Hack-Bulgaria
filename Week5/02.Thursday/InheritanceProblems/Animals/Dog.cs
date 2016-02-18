@@ -15,7 +15,7 @@ namespace Animals
 
         public override string Move()
         {
-            return String.Format("Im moving on the land " + this.Greet());
+            return String.Format("I'm dog and i moving on the land " + this.Greet());
         }
     }
 }
