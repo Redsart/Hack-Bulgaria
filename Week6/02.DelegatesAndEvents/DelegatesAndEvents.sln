@@ -9,6 +9,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Delegates", "Delegates", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agregates", "Agregates\Agregates.csproj", "{118709F7-4793-4B90-8A08-39E9DC09C31B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Events", "Events", "{5F655849-416D-42EC-B58D-DD0406F6DB0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agregator", "Agregator\Agregator.csproj", "{35E016EB-2D92-4C00-8311-C79E3C74E30A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection", "Collection\Collection.csproj", "{50B583E3-0FFA-4A2A-8D34-117606E06315}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +29,14 @@ Global
 		{118709F7-4793-4B90-8A08-39E9DC09C31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{118709F7-4793-4B90-8A08-39E9DC09C31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{118709F7-4793-4B90-8A08-39E9DC09C31B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E016EB-2D92-4C00-8311-C79E3C74E30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E016EB-2D92-4C00-8311-C79E3C74E30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E016EB-2D92-4C00-8311-C79E3C74E30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E016EB-2D92-4C00-8311-C79E3C74E30A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B583E3-0FFA-4A2A-8D34-117606E06315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B583E3-0FFA-4A2A-8D34-117606E06315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B583E3-0FFA-4A2A-8D34-117606E06315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B583E3-0FFA-4A2A-8D34-117606E06315}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,5 +44,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{C4C4B199-1ADE-460A-82A6-50EC7939BA61} = {54925047-3210-4FD3-AD81-BDC0AD878D62}
 		{118709F7-4793-4B90-8A08-39E9DC09C31B} = {54925047-3210-4FD3-AD81-BDC0AD878D62}
+		{35E016EB-2D92-4C00-8311-C79E3C74E30A} = {5F655849-416D-42EC-B58D-DD0406F6DB0E}
+		{50B583E3-0FFA-4A2A-8D34-117606E06315} = {5F655849-416D-42EC-B58D-DD0406F6DB0E}
 	EndGlobalSection
 EndGlobal
