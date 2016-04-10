@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClassesAndMethods", "StaticClassesAndMethods\StaticClassesAndMethods.csproj", "{C0112A49-B386-4E20-BC93-9D259ED41F5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousTypesAndNestedClasses", "AnonymousTypesAndNestedClasses\AnonymousTypesAndNestedClasses.csproj", "{DE40BDF8-77DA-46A8-9D0E-5CF883340F13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C0112A49-B386-4E20-BC93-9D259ED41F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0112A49-B386-4E20-BC93-9D259ED41F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0112A49-B386-4E20-BC93-9D259ED41F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE40BDF8-77DA-46A8-9D0E-5CF883340F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE40BDF8-77DA-46A8-9D0E-5CF883340F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE40BDF8-77DA-46A8-9D0E-5CF883340F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE40BDF8-77DA-46A8-9D0E-5CF883340F13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
